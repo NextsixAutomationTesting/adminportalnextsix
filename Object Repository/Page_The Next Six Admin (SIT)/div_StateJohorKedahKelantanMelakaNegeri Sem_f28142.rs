@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_StateJohorKedahKelantanMelakaNegeri Sem_f28142</name>
+   <tag></tag>
+   <elementGuidId>8f3e14fb-c42e-4483-82b7-1822589c23f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/div/div[2]/div/div[2]/div[11]/div[5]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>caac3273-bda8-42ed-9b4e-a7dd51676e01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selection-input-wrap col-sm-12 col-xl-3</value>
+      <webElementGuid>e71248b1-71e6-458b-97f5-f61731335ac3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>StateJohorKedahKelantanMelakaNegeri SembilanPahangPenangPerakPerlisSabahSarawakSelangorTerengganuWilayah Persekutuan Kuala LumpurWilayah Persekutuan LabuanWilayah Persekutuan Putrajaya</value>
+      <webElementGuid>351047e4-f828-44fc-b083-89ad6ee48e67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;cr-app bg-light&quot;]/div[@class=&quot;cr-content container-fluid&quot;]/div[@class=&quot;cr-page px-3&quot;]/div[2]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[11]/div[@class=&quot;row form-group&quot;]/div[@class=&quot;selection-input-wrap col-sm-12 col-xl-3&quot;]</value>
+      <webElementGuid>a45aa9b9-3626-4391-aed5-4286700a83f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/div/div[2]/div/div[2]/div[11]/div[5]/div[2]</value>
+      <webElementGuid>45aa1dc3-d215-4f9d-a82d-74082fbe7e0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[12]/following::div[1]</value>
+      <webElementGuid>db9a18ed-ff17-433a-b8eb-8a22cfe5b78b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[13]/preceding::div[1]</value>
+      <webElementGuid>d2d19633-ade5-491a-8bbf-71e013191df6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div[5]/div[2]</value>
+      <webElementGuid>ac27c7f1-4b25-41d1-83ea-b042a6254ec6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'StateJohorKedahKelantanMelakaNegeri SembilanPahangPenangPerakPerlisSabahSarawakSelangorTerengganuWilayah Persekutuan Kuala LumpurWilayah Persekutuan LabuanWilayah Persekutuan Putrajaya' or . = 'StateJohorKedahKelantanMelakaNegeri SembilanPahangPenangPerakPerlisSabahSarawakSelangorTerengganuWilayah Persekutuan Kuala LumpurWilayah Persekutuan LabuanWilayah Persekutuan Putrajaya')]</value>
+      <webElementGuid>6a7f6592-96fd-4fc5-9c78-1e355a9791f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

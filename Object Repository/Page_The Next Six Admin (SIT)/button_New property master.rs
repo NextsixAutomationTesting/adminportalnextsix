@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_New property master</name>
+   <tag></tag>
+   <elementGuidId>49d46de4-dad3-4ea0-af29-8d4642f85fb4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-link.btn-sm</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/div/div[2]/div/div/div/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d1c8895a-6854-4926-a8db-f476e44b25b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-link btn-sm</value>
+      <webElementGuid>8110d59d-27ff-42df-9abc-6b44bc28fb67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>New property master</value>
+      <webElementGuid>911bd992-c543-4b40-8c35-4b49a4d45e15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;cr-app bg-light&quot;]/div[@class=&quot;cr-content container-fluid&quot;]/div[@class=&quot;cr-page px-3&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;input-group&quot;]/div[@class=&quot;input-group-btn&quot;]/button[@class=&quot;btn btn-link btn-sm&quot;]</value>
+      <webElementGuid>d8c19f64-6797-4cae-b8fc-b91181732d37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>049bafc0-6837-453d-8d52-60953eb39b66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-link btn-sm</value>
+      <webElementGuid>83ed3fdf-ea17-4e20-ac8b-c32fba7b94a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>New property master</value>
+      <webElementGuid>9010d77b-9044-43b3-a1bc-f8a72201bea8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;cr-app bg-light&quot;]/div[@class=&quot;cr-content container-fluid&quot;]/div[@class=&quot;cr-page px-3&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;input-group&quot;]/div[@class=&quot;input-group-btn&quot;]/button[@class=&quot;btn btn-link btn-sm&quot;]</value>
+      <webElementGuid>f87f4fc6-f4d5-400a-996b-e10faf918d61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a7bee85b-654f-468f-836c-4d8c88dbca2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-link btn-sm</value>
+      <webElementGuid>5d148c58-732f-4555-ba8c-50f8c4d5f2d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>New property master</value>
+      <webElementGuid>16ae36e4-62c6-43b9-bcb7-e9f32ab0f594</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;cr-app bg-light&quot;]/div[@class=&quot;cr-content container-fluid&quot;]/div[@class=&quot;cr-page px-3&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;input-group&quot;]/div[@class=&quot;input-group-btn&quot;]/button[@class=&quot;btn btn-link btn-sm&quot;]</value>
+      <webElementGuid>281247b7-cea2-490b-97fe-11bf85475d0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>620a7723-4e79-4894-b94c-510b98f744ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-link btn-sm</value>
+      <webElementGuid>2fadff00-356b-4b7e-ba38-249a4bd34a93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>New property master</value>
+      <webElementGuid>3b22c1f0-5a9d-495c-ba73-a8fb983af246</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;cr-app bg-light&quot;]/div[@class=&quot;cr-content container-fluid&quot;]/div[@class=&quot;cr-page px-3&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;input-group&quot;]/div[@class=&quot;input-group-btn&quot;]/button[@class=&quot;btn btn-link btn-sm&quot;]</value>
+      <webElementGuid>ef0a772e-67a4-484a-980b-92e81bba2f07</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/div/div[2]/div/div/div/button[2]</value>
+      <webElementGuid>5aaf9434-b4d8-4edd-bb1e-1565fe13ffff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::button[1]</value>
+      <webElementGuid>b31de1eb-ec4f-4632-960d-d55f46c8633d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Property Master Setup'])[2]/following::button[2]</value>
+      <webElementGuid>6a81b08e-8048-4ece-9a8e-3078422b80ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Property Name'])[1]/preceding::button[1]</value>
+      <webElementGuid>4579ff65-6427-4ba0-a476-62a86cf2929a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address'])[1]/preceding::button[1]</value>
+      <webElementGuid>95e629d7-f7bd-4116-bd91-053304c4aae4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='New property master']/parent::*</value>
+      <webElementGuid>1b76c0de-75f5-480f-903e-ba44641a1131</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>6b3ca582-f6b7-4af0-bf86-8fd3f2a2d953</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'New property master' or . = 'New property master')]</value>
+      <webElementGuid>c5ed045b-6719-4dcb-8ccb-9fa579ec44eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

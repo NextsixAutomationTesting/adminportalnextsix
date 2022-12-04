@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Type at least 3 characters to search pr_c81f40</name>
+   <tag></tag>
+   <elementGuidId>2489c5bb-1323-470b-9a52-0db3dfdb3040</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/div/div[2]/div/div[2]/div[7]/div/div[2]/div/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b21bfaf2-384a-42fd-9581-bbf204b4ab9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-1wa3eu0-placeholder</value>
+      <webElementGuid>768b275d-e372-45d3-8046-9e4a3780ac8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Type at least 3 characters to search property master</value>
+      <webElementGuid>0b0eb580-36e3-422e-bc9d-cdaee90e8ee0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;cr-app bg-light&quot;]/div[@class=&quot;cr-content container-fluid&quot;]/div[@class=&quot;cr-page px-3&quot;]/div[2]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;d-flex align-items-center input-group&quot;]/div[@class=&quot;col-sm-12 col-xl-8&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;css-2b097c-container&quot;]/div[@class=&quot;css-1pahdxg-control&quot;]/div[@class=&quot;css-1hwfws3&quot;]/div[@class=&quot;css-1wa3eu0-placeholder&quot;]</value>
+      <webElementGuid>3c94f096-fd7a-4636-8d4d-f5181358505e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>06945247-22b3-4142-8854-5e7a5d8d06a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-1wa3eu0-placeholder</value>
+      <webElementGuid>82de9c08-d2c6-4b1f-89e8-b8fd7664c372</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Type at least 3 characters to search property master</value>
+      <webElementGuid>cc15360c-706b-49dc-a5f3-b91a4552d397</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;cr-app bg-light&quot;]/div[@class=&quot;cr-content container-fluid&quot;]/div[@class=&quot;cr-page px-3&quot;]/div[2]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;d-flex align-items-center input-group&quot;]/div[@class=&quot;col-sm-12 col-xl-8&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;css-2b097c-container&quot;]/div[@class=&quot;css-1pahdxg-control&quot;]/div[@class=&quot;css-1hwfws3&quot;]/div[@class=&quot;css-1wa3eu0-placeholder&quot;]</value>
+      <webElementGuid>a737df58-ee1a-4b33-91b6-a6dde84fed8e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/div/div[2]/div/div[2]/div[7]/div/div[2]/div/div/div/div/div/div</value>
+      <webElementGuid>9d7bef21-00f5-4b37-a7aa-3c656d2a878d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[7]/following::div[6]</value>
+      <webElementGuid>03b7e925-c303-4405-ac61-07b5166ac802</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No options'])[1]/preceding::div[5]</value>
+      <webElementGuid>0c0446e7-79ff-4031-bbf7-bc848670567c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Type at least 3 characters to search property master']/parent::*</value>
+      <webElementGuid>9354073d-f21a-4925-8804-620bda7a6861</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div[2]/div/div/div/div/div/div</value>
+      <webElementGuid>bbc212db-c69f-411c-b068-8f8959dcc79d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Type at least 3 characters to search property master' or . = 'Type at least 3 characters to search property master')]</value>
+      <webElementGuid>c36cbd6a-58b2-451b-9b68-c73e7e0e67c3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

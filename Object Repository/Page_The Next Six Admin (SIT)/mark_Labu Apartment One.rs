@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mark_Labu Apartment One</name>
+   <tag></tag>
+   <elementGuidId>9d382cce-938f-466b-acda-640fcd329748</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-select-4-option-0']/div/span/mark</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mark</value>
+      <webElementGuid>4b46497f-f49c-4dc7-8aa5-0c1f461166a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Labu Apartment One</value>
+      <webElementGuid>0fd71956-4305-4f76-bbb7-612d7bae76f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-select-4-option-0&quot;)/div[1]/span[1]/mark[@class=&quot;&quot;]</value>
+      <webElementGuid>c5af9fd9-fa08-4170-8f4a-523b8f4a79cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mark</value>
+      <webElementGuid>06a1f290-80a0-4044-8dc4-6992fc26019f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Labu Apartment One</value>
+      <webElementGuid>0e6668a1-00c0-4838-b891-7e176f109d5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-select-4-option-0&quot;)/div[1]/span[1]/mark[@class=&quot;&quot;]</value>
+      <webElementGuid>9e207796-d3cf-404d-82cf-8adc12473107</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-select-4-option-0']/div/span/mark</value>
+      <webElementGuid>c5eb0723-3134-44d6-a212-7226e50f7a8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='labu apartment one'])[1]/following::mark[1]</value>
+      <webElementGuid>e5f28894-9c2d-4350-baba-ac03af302d3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[7]/following::mark[1]</value>
+      <webElementGuid>c14111a9-959f-4672-b205-06a0106368f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Labu Apartment One']/parent::*</value>
+      <webElementGuid>db24f44d-e5dc-44ed-9dc7-f16403e5faf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mark</value>
+      <webElementGuid>7588f297-48c7-42cf-92c7-7564b4b9aa47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mark[(text() = 'Labu Apartment One' or . = 'Labu Apartment One')]</value>
+      <webElementGuid>76aad86b-7e03-4f14-9249-db27383643ec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

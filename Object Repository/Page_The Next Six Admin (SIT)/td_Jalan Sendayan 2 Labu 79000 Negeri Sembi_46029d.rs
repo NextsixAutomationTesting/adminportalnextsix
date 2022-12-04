@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Jalan Sendayan 2 Labu 79000 Negeri Sembi_46029d</name>
+   <tag></tag>
+   <elementGuidId>0d58c189-af6b-44ec-8b34-23bb1ccbfc1a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/div/div[2]/div/div[2]/table/tbody/tr/td[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>f9ab9e51-9b50-483f-94c3-3afbc516d022</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jalan Sendayan 2 Labu 79000 Negeri Sembilan Malaysia</value>
+      <webElementGuid>04f96faa-e64a-4fb9-8b10-874b960e3b57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;cr-app bg-light&quot;]/div[@class=&quot;cr-content container-fluid&quot;]/div[@class=&quot;cr-page px-3&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;table table-borderless table-striped&quot;]/tbody[1]/tr[1]/td[2]</value>
+      <webElementGuid>cac89ea2-4df7-4776-8fe6-612ddcda5d3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>8038a4f7-2e8e-4194-a210-81a6eeae3b1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jalan Sendayan 2 Labu 79000 Negeri Sembilan Malaysia</value>
+      <webElementGuid>bb17ded2-94a0-4c08-b30c-4f493a0911d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;cr-app bg-light&quot;]/div[@class=&quot;cr-content container-fluid&quot;]/div[@class=&quot;cr-page px-3&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;table table-borderless table-striped&quot;]/tbody[1]/tr[1]/td[2]</value>
+      <webElementGuid>910235d9-ee9d-482c-9e88-ca0fd8172f32</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/div/div[2]/div/div[2]/table/tbody/tr/td[2]</value>
+      <webElementGuid>ac289070-79e5-4681-8568-80ef19d5f39f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Labu Apartment One'])[1]/following::td[1]</value>
+      <webElementGuid>a6b0dd05-f4e0-47fc-82cd-d4293dd95c63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address'])[1]/following::td[2]</value>
+      <webElementGuid>521d0698-2f2b-4dee-b698-c22bcac59d83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More'])[1]/preceding::td[1]</value>
+      <webElementGuid>2456b4b5-887f-426b-be1e-1a8641bd9bf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sync Properties'])[1]/preceding::td[1]</value>
+      <webElementGuid>fe1afeac-a81d-4a35-ba3d-cec39e63c0a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Jalan Sendayan 2 Labu 79000 Negeri Sembilan Malaysia']/parent::*</value>
+      <webElementGuid>339c3c31-bc1a-496c-9404-14497c672c26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]</value>
+      <webElementGuid>206f64d7-baca-4306-a1e5-2c78a7fc2dc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Jalan Sendayan 2 Labu 79000 Negeri Sembilan Malaysia' or . = 'Jalan Sendayan 2 Labu 79000 Negeri Sembilan Malaysia')]</value>
+      <webElementGuid>eea5ef5e-1baf-41ac-a14b-bf77caaf2b44</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

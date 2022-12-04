@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Apartment and Condo</description>
+   <name>Create New Property Master</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c078dec5-e96c-46de-a2c7-8dd16e2d28f8</testCaseGuid>
+</TestCaseEntity>
