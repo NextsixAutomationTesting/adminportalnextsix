@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_A Must Group</name>
+   <tag></tag>
+   <elementGuidId>0bac4181-2b77-47e6-985e-1903b8e246af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-select-5-option-2']/label/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#react-select-5-option-2 > label > span > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>49d8b63a-7ff7-414f-8d8c-4aa6a0debbe9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>A Must Group</value>
+      <webElementGuid>c6a10c10-2d01-42fa-86c7-e2ee16167fab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-select-5-option-2&quot;)/label[1]/span[1]/span[1]</value>
+      <webElementGuid>e26b3292-6258-4e8e-a0b4-7651e6010f8b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-select-5-option-2']/label/span/span</value>
+      <webElementGuid>479f2428-0f40-4267-aa24-8522770500a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[10]/following::span[9]</value>
+      <webElementGuid>92fc1f8d-c344-48b9-8936-aba3fe079c81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A Ting &amp; Associates'])[1]/preceding::span[1]</value>
+      <webElementGuid>0cdb09bb-efe2-4e12-a81a-82236f3952ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A Y G Property Solutions'])[1]/preceding::span[3]</value>
+      <webElementGuid>eb99bb01-255e-436f-968d-88921f6d4bd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='A Must Group']/parent::*</value>
+      <webElementGuid>89cb750c-5e46-479e-a844-6de18d4c264b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/label/span/span</value>
+      <webElementGuid>48fd1a72-20d7-4809-9b5d-713c68dfd9fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'A Must Group' or . = 'A Must Group')]</value>
+      <webElementGuid>02338685-7669-4721-b829-9184c4adf347</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

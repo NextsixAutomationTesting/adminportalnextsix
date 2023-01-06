@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_User NamePasswordRemember MeInvalid use_5bc10b</name>
+   <tag></tag>
+   <elementGuidId>0d2455c4-8044-4311-a4f4-0b63121adecf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.row</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6e37a502-d733-4dad-b9a7-2edae829af12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>row</value>
+      <webElementGuid>65fece7e-8623-48cb-a114-860b63dc15e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>User NamePasswordRemember MeInvalid username/password. Please try againSign inForget Password</value>
+      <webElementGuid>60476a8c-e997-4862-b3e9-e2c5e74db4e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;cr-app bg-light&quot;]/div[@class=&quot;cr-content container-fluid&quot;]/div[@class=&quot;row&quot;]</value>
+      <webElementGuid>a7102ddd-2adb-409e-9962-9eac49f8441c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/div</value>
+      <webElementGuid>5ed7ecf6-7cf2-46d8-aa3b-5e097320fe13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div</value>
+      <webElementGuid>177f5e0c-1d37-46a3-89c5-0f0e6bb45e0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'User NamePasswordRemember MeInvalid username/password. Please try againSign inForget Password' or . = 'User NamePasswordRemember MeInvalid username/password. Please try againSign inForget Password')]</value>
+      <webElementGuid>b5dd98ae-d715-4116-bc91-b06b0d38972f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

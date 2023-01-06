@@ -56,6 +56,8 @@ WebUI.setText(findTestObject('Object Repository/Page_The Next Six Admin (SIT)/in
 
 WebUI.setText(findTestObject('Object Repository/Page_The Next Six Admin (SIT)/input_Property Address_line1'), 'Jalan Sendayan 2')
 
+WebUI.delay(2)
+
 WebUI.click(findTestObject('Object Repository/Page_The Next Six Admin (SIT)/button_Save'))
 
 WebUI.setText(findTestObject('Object Repository/Page_The Next Six Admin (SIT)/input_Property Master Setup_form-control'), 
